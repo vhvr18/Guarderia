@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\models\\guarderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\models\\guarderiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|c:\\users\\usuario\\onedrive - ajr.com.mx\\escritorio\\ws vucem\\solucionguarderia\\solucionguarderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00696F85-F1E2-4999-B4B3-6E143156A7E4}|SolucionGuarderia\\SolucionGuarderia.csproj|solutionrelative:solucionguarderia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SolucionGuarderia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T19:23:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SolucionGuarderia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T19:22:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SolucionGuarderia\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:28:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Program.cs",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Program.cs",
+              "RelativeToolTip": "SolucionGuarderia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:08:56.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\appsettings.json",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\appsettings.json",
+              "RelativeToolTip": "SolucionGuarderia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T17:05:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuarderiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Models\\GuarderiaContext.cs",
+              "RelativeDocumentMoniker": "SolucionGuarderia\\Models\\GuarderiaContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - ajr.com.mx\\Escritorio\\WS Vucem\\SolucionGuarderia\\SolucionGuarderia\\Models\\GuarderiaContext.cs",
+              "RelativeToolTip": "SolucionGuarderia\\Models\\GuarderiaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:03:20.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
